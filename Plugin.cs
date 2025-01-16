@@ -4,8 +4,6 @@ using HarmonyLib;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using System.Collections;
-using System.Reflection;
 
 namespace GrabCounter
 {
